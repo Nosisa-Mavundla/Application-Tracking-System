@@ -47,6 +47,3 @@ def print_header(tittle):
     print(f" {tittle}")
     print_separator("=")
     print()
-    
-
-
